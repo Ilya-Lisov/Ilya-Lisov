@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ilya 👋
 
-<!--
-**Ilya-Lisov/Ilya-Lisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer · Automation · Mobile · Game Development**
 
-Here are some ideas to get you started:
+I build software that solves real-world problems — from business automation and mobile applications to games and development tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+- 💻 Software developer focused on practical solutions
+- ⚙️ Interested in backend systems, automation and integration
+- 📱 Building cross-platform mobile applications
+- 🎮 Exploring game development and Minecraft modding
+- 🧠 Experimenting with AI-assisted development workflows
+
+### Tech stack
+
+**Languages:** Python · TypeScript · Java · C# · Dart · 1C
+
+**Backend & databases:** Django · PostgreSQL · SQLite
+
+**Frontend & mobile:** Angular · Flutter · Capacitor
+
+**Game development:** Godot · Minecraft Modding
+
+**Tools:** Git · Docker · Linux · WSL2 · VS Code
+
+### Featured projects
+
+**My Garage** — Flutter application for tracking vehicle maintenance, repairs and expenses.
+
+**QuarryEngineering** — Industrial Minecraft mod featuring drilling equipment, multiblock machinery and resource processing.
+
+**CyberGame** — Isometric action game developed with Godot and C#, featuring combat systems and handcrafted environments.
+
+### What I care about
+
+Clean architecture, reliable software, automated testing and building tools that are genuinely useful.
+
+---
+
+*Always building. Always learning.*
