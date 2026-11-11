@@ -1,43 +1,47 @@
-# Hi, I'm Ilya 👋
+<div align="center">
 
-**Software Developer · Automation · Mobile · Game Development**
+# Hey, I'm Ilya 👋
 
-I build software that solves real-world problems — from business automation and mobile applications to games and development tools.
+**Software Developer · Mobile Apps · Game Development · Automation**
 
----
+I build practical software, experiment with creative tools, and turn ideas into projects that actually work.
 
-### About me
-
-- 💻 Software developer focused on practical solutions
-- ⚙️ Interested in backend systems, automation and integration
-- 📱 Building cross-platform mobile applications
-- 🎮 Exploring game development and Minecraft modding
-- 🧠 Experimenting with AI-assisted development workflows
-
-### Tech stack
-
-**Languages:** Python · TypeScript · Java · C# · Dart · 1C
-
-**Backend & databases:** Django · PostgreSQL · SQLite
-
-**Frontend & mobile:** Angular · Flutter · Capacitor
-
-**Game development:** Godot · Minecraft Modding
-
-**Tools:** Git · Docker · Linux · WSL2 · VS Code
-
-### Featured projects
-
-**My Garage** — Flutter application for tracking vehicle maintenance, repairs and expenses.
-
-**QuarryEngineering** — Industrial Minecraft mod featuring drilling equipment, multiblock machinery and resource processing.
-
-**CyberGame** — Isometric action game developed with Godot and C#, featuring combat systems and handcrafted environments.
-
-### What I care about
-
-Clean architecture, reliable software, automated testing and building tools that are genuinely useful.
+</div>
 
 ---
 
-*Always building. Always learning.*
+## 🚀 What I'm building
+
+| Project | About | Current focus |
+| :--- | :--- | :--- |
+| 🚗 **My Garage** | A local-first Flutter app for vehicle maintenance, expenses, fuel and documents. | **v1.5** · Android reliability, backups, OCR and release QA |
+| ⛏️ **QuarryEngineering** | A Minecraft NeoForge mod with drilling, industrial machines, multiblocks and quarry systems. | **Alpha** · Machinery, progression, custom models and testing |
+| 🎮 **Out of Outline / Вне Контура** | A Godot 4 / C# game with handcrafted levels and a distinctive voxel-pixel / low-poly look. | **Vertical slice** · Worldbuilding, combat and author-made environments |
+
+> 🔒 **Private development.** These are personal projects. Public previews and release materials will come when they're ready; source repositories remain private.
+
+## 🧰 My toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Mobile** | Flutter · Dart · Android · SQLite |
+| **Backend & web** | Python · Django · PostgreSQL · TypeScript · Angular |
+| **Game development** | Godot 4 · C# · Blender · Blockbench |
+| **Minecraft modding** | Java · NeoForge · Gradle |
+| **Development workflow** | Git · GitHub Actions · Docker · Linux · Testing |
+| **Automation & integrations** | 1C · MES / ERP · APIs |
+
+## 🧭 How I like to work
+
+- **Useful first:** build tools and experiences worth using.
+- **Quality matters:** test the important paths and keep data safe.
+- **Make it yours:** craft models and environments instead of relying on placeholders forever.
+- **Ship deliberately:** thoughtful releases beat rushing out broken builds.
+
+---
+
+<div align="center">
+
+*Building useful things and interesting worlds, one iteration at a time.*
+
+</div>
